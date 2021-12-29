@@ -1,0 +1,1 @@
+python Estimator.py --img_path=BMPdataset/4.2.07_ROT_15.bmp --img_dir=BMPdataset
