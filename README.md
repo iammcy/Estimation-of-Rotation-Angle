@@ -26,13 +26,3 @@ Put rotated image in `/BMPdataset` directory.
 ```sh
 bash run.sh
 ```
-
-## Citation
-
-```
-@inproceedings{
-  title={Estimation of Rotation Angle},
-  author={Chengyuan Mai},
-  year={2021}
-}
-```
